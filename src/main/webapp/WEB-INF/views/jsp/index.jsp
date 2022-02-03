@@ -47,7 +47,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; Daimler App Alrights reserved.</p>
 	</footer>
 </div>
 
